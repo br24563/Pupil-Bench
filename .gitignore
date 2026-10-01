@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+scc/
+*.mex*
+*.slxc
+*.mltbx
+matlabprefs/
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+# Exports (generated artifacts, not source)
+*_results.mat
+pupilbench_*.png
+pupilbench_*.csv
