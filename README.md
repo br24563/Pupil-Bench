@@ -6,6 +6,8 @@ encircled energy, and Strehl ratio. Teaching tool + quick analysis tool.
 
 Base MATLAB only (no toolboxes), R2021a or newer.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Run
 
 ```matlab
@@ -51,3 +53,7 @@ Layout: `PupilBench.m` (single diffable class file, programmatic
 4. Image-simulation tab (USAF target, blurred + noisy vs ideal).
 5. Compare mode: frozen reference (dashed) vs live curve on the 1-D plots.
 6. Polychromatic (5 λ, D65-ish) vs monochromatic PSF cross-section.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
